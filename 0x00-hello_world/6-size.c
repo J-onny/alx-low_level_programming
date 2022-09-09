@@ -1,5 +1,5 @@
-#include <stdio.h>
-/**
+root@464f3be946ee:/alx-low_level_programming/0x00-hello_world# vi 6-size.c
+root@464f3be946ee:/alx-low_level_programming/0x00-hello_world# vi 6-size.c
  * main - Entry point
  *
  * Return: Always 0 (Success)

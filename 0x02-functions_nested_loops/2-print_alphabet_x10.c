@@ -1,9 +1,14 @@
 #include "main.h"
 
-/**Na _Check The Code
- *
- * Return: Always 0
+
+/**
+ * Description: function uses _putchar function to print
+ * alphabet in lowercase 10 times
+ * Return: Nothing.
  */
+
+
+
 void print_alphabet_x10(void)
 {
 	char n;
@@ -16,6 +21,5 @@ void print_alphabet_x10(void)
 			_putchar('q');
 			_putchar('\n');
 		}
-/*8		return(0);*/	
 	}
 }

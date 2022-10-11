@@ -1,12 +1,13 @@
 #include <stdio.h>
 
+
 /**
- * Main - prints the name of he executable file
+ * main - Prints the name of the file
+ * Return: 0(Success) Always
  */
 
-int main()
+int main(void)
 {
 	printf("%s\n", __FILE__);
-	return(0);
+	return (0);
 
-}
